@@ -1,5 +1,6 @@
 # Roda_case
 
+
 Esse app é responsável por simular um armazenamento de vendas
 
 ## Acesse online
@@ -35,7 +36,7 @@ pip install django
 pip install djangorestframework
 pip install django-filter
 ```
-[Link](https://choosealicense.com/licenses/mit/)
+
 
 ## Run
 
