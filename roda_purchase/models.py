@@ -1,8 +1,7 @@
 import uuid
 from django.db import models
 
-# Create your models here.
-
+''' Aqui são criadas as tabelas no nosso banco de dados.'''
 
 class Product(models.Model):
     item= models.CharField(max_length=100)
@@ -21,6 +20,7 @@ class Purchase(models.Model):
     
     def __str__(self):
         return self.client
+
 
 
 

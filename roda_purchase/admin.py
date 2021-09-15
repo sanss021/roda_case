@@ -1,5 +1,6 @@
 from django.contrib import admin
 
+''' configurar nossa inteface de administração'''
 
 from .models import Purchase
 

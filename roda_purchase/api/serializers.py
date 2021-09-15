@@ -12,3 +12,4 @@ class ProductSerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 
+'''Aqui é onde transformamos dados em um formato que pode ser armazenado ou transmitido'''
